@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [github](https://github.com/tsxepo-web/qr-code-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [netlify](https://capable-llama-d74a78.netlify.app/)
 
 ### Built with
 
@@ -31,5 +31,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [tsxepo](https://www.your-site.com)
 - Frontend Mentor - [@tsxepo](https://www.frontendmentor.io/profile/tsxepo-web)
